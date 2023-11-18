@@ -36,6 +36,13 @@ submission
  - Make filter components on the dashboard
  - Complete the dashboard with various data visualizations
 
+## 3. Screanshot
+![alt text](https://github.com/fajarkrna/bike-sharing-rentals/blob/95e64d649809639cf7a4c06c9162057d029b9348/dashboard/Capture1.JPG)
+![alt text](https://github.com/fajarkrna/bike-sharing-rentals/blob/95e64d649809639cf7a4c06c9162057d029b9348/dashboard/Capture2.JPG)
+![alt text](https://github.com/fajarkrna/bike-sharing-rentals/blob/95e64d649809639cf7a4c06c9162057d029b9348/dashboard/Capture3.JPG)
+![alt text](https://github.com/fajarkrna/bike-sharing-rentals/blob/95e64d649809639cf7a4c06c9162057d029b9348/dashboard/Capture4.JPG)
+![alt text](https://github.com/fajarkrna/bike-sharing-rentals/blob/95e64d649809639cf7a4c06c9162057d029b9348/dashboard/Capture5.JPG)
+
 ## Setup Virtual Environment
 ```
 conda create --name main-ds python=3.9
