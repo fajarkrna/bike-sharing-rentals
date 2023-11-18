@@ -4,17 +4,18 @@ Ini adalah submission pada course "Belajar Analisis Data dengan Python". Untuk m
 
 ## 1. Struktur File
 submission
+```
 ├───dashboard
-| ├───day_df.csv
-| └───dashboard.py
+|   ├───day_df.csv
+|   └───dashboard.py
 ├───data
-| ├───hour.csv
-| ├───day.csv
-| └───Readme.txt
+|   ├───hour.csv
+|   ├───day.csv
+|   └───Readme.txt
 ├───bike_sharing.ipynb
 ├───README.md
 └───requirements.txt
-
+```
 ## 2. Proses Analisis Data
 1. Data Wrangling: 
  - Gathering data
@@ -29,8 +30,6 @@ submission
  - Set up the DataFrame which will be used
  - Make filter components on the dashboard
  - Complete the dashboard with various data visualizations
- 
-## 3. 
 
 ## Setup Virtual Environment
 ```
