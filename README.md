@@ -6,6 +6,11 @@ Ini adalah submission pada course "Belajar Analisis Data dengan Python". Untuk m
 submission
 ```
 ├───dashboard
+|   ├───capture1.JPG
+|   ├───capture2.JPG
+|   ├───capture3.JPG
+|   ├───capture4.JPG
+|   ├───capture5.JPG
 |   ├───day_df.csv
 |   └───dashboard.py
 ├───data
