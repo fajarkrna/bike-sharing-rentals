@@ -9,7 +9,7 @@ from PIL import Image
 sns.set(style='dark')
 
 # menyiapkan dataframe
-day_df = pd.read_csv("C:/Users/USER/analisis_data/day_df.csv")
+day_df = pd.read_csv("dashboard/day_df.csv")
 day_df.head()
 
 # Menyiapkan daily_rent_df
