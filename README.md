@@ -1,6 +1,6 @@
 # Bike Rental - Submissions Dashboard ✨
 
-Ini adalah submission pada course "Belajar Analisis Data dengan Python". Untuk menyelesaikan course ini peserta diminta untuk menganalisa data dan membuat sebuah dashboard dari dataset Bike Sharing. 
+Ini adalah submission pada course "Belajar Analisis Data dengan Python". Untuk menyelesaikan course ini peserta diminta untuk menganalisa data dan membuat sebuah dashboard dari dataset Bike Sharing. Dashboard tersebut bisa diakses [disini](https://bike-sharing-rentals-t9vx6fhdqb79nnzawm4ya4.streamlit.app/) 
 
 ## 1. Struktur File
 submission
