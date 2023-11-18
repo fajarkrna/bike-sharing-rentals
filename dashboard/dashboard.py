@@ -1,9 +1,8 @@
 # Import library yang dibutuhkan
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
-from babel.numbers import format_currency
 from PIL import Image
 
 # set style seaborn
